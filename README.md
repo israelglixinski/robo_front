@@ -1,2 +1,3 @@
-# robo_front
-Biblioteca visual simples, para utilização em robôs de automação simples.
+# Rascunhos
+
+* Repositório com códigos aleatórios que serão usados posteriomente.
